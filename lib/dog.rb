@@ -16,5 +16,6 @@ def name=(new_name)
   end
 end 
    
-   
+ snoopy = Dog.new
+        snoopy.breed = "Beagle"  
 
