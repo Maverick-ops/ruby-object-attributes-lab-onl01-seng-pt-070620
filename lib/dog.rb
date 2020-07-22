@@ -4,6 +4,7 @@ class Dog
   end 
 def name
   @name 
+  end 
 end 
 
 #fido = name.new("Fido")
