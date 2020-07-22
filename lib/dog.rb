@@ -10,5 +10,5 @@ def name=(new_name)
   end
  
 end
-
+ def breed
 
