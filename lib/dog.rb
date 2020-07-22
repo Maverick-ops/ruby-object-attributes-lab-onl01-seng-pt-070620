@@ -11,5 +11,4 @@ def name=(new_name)
  
 end
 
-###fido.name
 
