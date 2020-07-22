@@ -9,7 +9,7 @@ end
 #fido = name.new("Fido")
 fido = Dog.new
 fido.name = "Fido"
-fido.name
-  end 
+#fido.name
+
 
 end 
