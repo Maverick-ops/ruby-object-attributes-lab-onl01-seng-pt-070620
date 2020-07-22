@@ -10,7 +10,5 @@ end
 #fido = name.new("Fido")
 fido = Dog.new
 fido.name = "Fido"
-#fido.name
+fido.name
 
-
-end 
