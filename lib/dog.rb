@@ -6,7 +6,7 @@ def name
   @name 
 end 
 
-fido = dog.new
+fido = dog.new("Fido")
 
 
 
