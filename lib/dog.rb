@@ -8,7 +8,7 @@ def name
 end 
 
 #fido = name.new("Fido")
-fido = Dog.new
-fido.name = "Fido"
+fido = Dog.new("Fido")
+#fido.name = "Fido"
 fido.name
 
