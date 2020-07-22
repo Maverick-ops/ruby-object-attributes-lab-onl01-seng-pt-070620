@@ -11,7 +11,5 @@ def name=(new_name)
  
 end
 
-fido = Dog.new #("Fido")
-fido.name = "Fido"
-fido.name
+###fido.name
 
