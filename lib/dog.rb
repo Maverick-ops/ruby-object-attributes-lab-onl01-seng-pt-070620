@@ -13,7 +13,8 @@ def name=(new_name)
  
  def breed=(breed)
    @breed = breed 
-   snoopy.breed
- end
- end 
+  end
+end 
+   
+   
 
